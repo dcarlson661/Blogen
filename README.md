@@ -1,2 +1,2 @@
-# bs4boiler
+# from bs4boiler for Blogen
 initial readme
